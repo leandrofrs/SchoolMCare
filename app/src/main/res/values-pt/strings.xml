@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="app_name">A Minha Aplicação</string>
+ <string name="sample_message">Tem %1$d mensagens e mais %2$d emails</string>
+ <string name="username">Nome de Utilizador</string>
+ <string name="password">Palavra Chave</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SchoolMCare</string>
+    <string name="sample_message">You have %1$d messages and more %2$d emails</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="toast_message" translatable="false">%1$s / %2$s</string>
+</resources>
